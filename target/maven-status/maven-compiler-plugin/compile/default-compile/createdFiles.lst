@@ -1,0 +1,11 @@
+com\cts\ServletInitializer.class
+com\cts\Controllers\UserController.class
+com\cts\Repositories\UserRepository.class
+com\cts\Entities\AccountType.class
+AccountTypeDTO\UserSocialAccount.class
+com\cts\NewAccountManagementApplication.class
+com\cts\Entities\UserAccount.class
+AccountTypeDTO\SocialAccount.class
+com\cts\Services\UserService.class
+com\cts\Services\AccountTypeService.class
+com\cts\Repositories\AccountTypeRepository.class
