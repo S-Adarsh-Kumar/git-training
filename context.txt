@@ -1,3 +1,5 @@
 File for testing the p4merge and difftool
 
 adding this line afte 1st push
+
+adding 3rd line after 2nd push
