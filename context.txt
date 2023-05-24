@@ -7,3 +7,6 @@ adding 3rd line after 2nd push
 adding 4th line withoit pushing, but after commiting this time
 
 adding 5th line afte commit of the 4th line, but not commiting this time
+
+
+Practicing branching.So, editing this file after creating a new branch
