@@ -1,1 +1,5 @@
 Practicing rebasing.So, this file is created on the master branch before rebasing.
+
+above line should be ignored.
+
+Adding new line while on master branch.
